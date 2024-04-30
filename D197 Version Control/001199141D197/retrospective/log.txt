@@ -1,0 +1,168 @@
+commit d94e3382a6a6f91f88a6894945ff6ebc244b5bad
+Merge: f08132b b7d3c63
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sun Aug 13 11:07:16 2023 -0600
+
+    Resolves merge conflict by combining both versions of Readme.md
+
+commit f08132b98e31cd125b89b126c603cc4e89a2c037
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sun Aug 13 10:55:51 2023 -0600
+
+    Adds Git Version
+
+commit b7d3c637660542d0e5d4fb7817bbe15f406006bf
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sat Aug 12 19:47:10 2023 -0600
+
+    Adds readme.md file with student ID
+
+commit 09acb7d224fa0147219e90baf2212d2c4517d950
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sat Aug 12 19:25:22 2023 -0600
+
+    Updated Customers
+
+commit 463e880030993bb5e4273d5fe9de2c1e499f1679
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sat Aug 12 19:21:52 2023 -0600
+
+    Updated About Us
+
+commit 23320b0c7ee5d48cb4742456663dc6d88052b715
+Author: Ralph2323 <moore1746@gmail.com>
+Date:   Sat Aug 12 19:00:10 2023 -0600
+
+    Updates to Team
+
+commit 068e93adea4d3383b82126406d0fa61c52fbaf94
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:34:35 2023 +0000
+
+    Upload New File
+
+commit 7967eab508baf55e2222e5e13235c22faccd7094
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:34:23 2023 +0000
+
+    Upload New File
+
+commit 4883242ce32923054346293a0b77f8096bedbccf
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:34:07 2023 +0000
+
+    Upload New File
+
+commit f903c066fda253b34827c809d1940f2bcd664184
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:33:54 2023 +0000
+
+    Upload New File
+
+commit 1cc4761e1d047cf881b98e24a604f331e5cf3275
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:33:34 2023 +0000
+
+    Upload New File
+
+commit 91f8ac2b9ac3d59cb12ce737627ca2f06122022c
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:33:10 2023 +0000
+
+    Upload New File
+
+commit be2e6e24e6b1994ce284cc4ba71a8c0b499964b0
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:32:58 2023 +0000
+
+    Upload New File
+
+commit 6383760c19d5ab495a940edf1f317c1c683fbc77
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:32:31 2023 +0000
+
+    Upload New File
+
+commit 1d5797b4a94b468e191cbbbedceb670b6c9fb00e
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:32:13 2023 +0000
+
+    Upload New File
+
+commit 2d23b28bf0afdf8ef6787a3d2c42e7a8b3268300
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:32:02 2023 +0000
+
+    Upload New File
+
+commit e993881a62fc1d3a83cb940031155c942a270afa
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:31:50 2023 +0000
+
+    Upload New File
+
+commit ec527c1403ed11aea9e3ebc5ed0ee11599b71e58
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:31:38 2023 +0000
+
+    Upload New File
+
+commit 0a96904f35da9d54fb6f72f6e53e678fb2dbf029
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:31:26 2023 +0000
+
+    Upload New File
+
+commit 3aea0419c4b34b1c1aa88ddd961266ca0bf18d81
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:31:15 2023 +0000
+
+    Upload New File
+
+commit 8a249cfa85076282c729e1222ff504779b1fdfd3
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:31:03 2023 +0000
+
+    Upload New File
+
+commit 2dd7b5a8e776f0582ca2fece1edb33dbf85cb465
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:30:52 2023 +0000
+
+    Upload New File
+
+commit f38f1007ff57d3896a4c84952db738213ec53fbd
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:30:42 2023 +0000
+
+    Upload New File
+
+commit 763a424bf8dc3228c3674699af32549c3c05337b
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:30:23 2023 +0000
+
+    Upload New File
+
+commit faea92db911a37ebba074e6dcd8ff408416a49cf
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:29:59 2023 +0000
+
+    Upload New File
+
+commit d186236cd4033b213197213ef4377c175286c531
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:29:38 2023 +0000
+
+    Upload New File
+
+commit 0179e040e3b37811cebf6e96d3847299356ed262
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:28:13 2023 +0000
+
+    Upload New File
+
+commit 18672d316f1d42637868af424f62b7bf64aa4a54
+Author: Ralph Moore <rmoo225@my.wgu.edu>
+Date:   Sat Aug 12 22:15:07 2023 +0000
+
+    Initial commit

@@ -1,0 +1,11 @@
+The merge in Part 1 was resolved by:
+1. git add ..
+2. git status
+3. git commit -m "Resolves merge conflict by combining both versions of the Readme.md"
+4. git status
+5. git push
+
+Part C changes:
+1. added text to Team.html- Call us today!</p><!-- Updates to Team -->
+2. added text to customers.html - We do business for our customers.</p><!-- Updated Customers -->
+3. added text to about.html - This is our mission.</p> <!-- Updated About Us -->

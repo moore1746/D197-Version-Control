@@ -1,0 +1,55 @@
+Learn to use Git with Version Control D197 from WGU. HINT: It's not as difficult as they make it seem. Here's some advice to help you be successful in D197 and to help you get it finished FAST!
+
+** Git Commands: Step-by-step **
+
+Sequence of steps in Git:
+
+1. Make Changes To Files
+2. Add Changes
+3. Commit Changes
+4. Push Changes
+
+1. Navigate to the directory housing the file you want to work on = cd Documents/
+2. View directory contents = dir
+3. Go to file containing project = cd First\ Git\ Project (That was my file name YOURS WILL BE DIFFERENT)
+4. See contents of the folder to select specific file/project = dir
+
+
+YOU'RE NOW IN THE CORRECT FOLDER AND YOU CAN SELECT THE CORRECT PROJECT TO WORK ON
+
+
+5. Initialize project = git init
+
+
+YOU'RE NOW INSIDE YOUR PROJECT. MAKE CHANGES THAT YOU CAN ADD, COMMIT, AND PUSH.
+
+
+6. Add changes = git add . *( The "add ." will add ALL changes. To add single file use "git add FILE NAME)*
+
+7. Commit changes with message = git commit -m "your message here" 
+
+8. Push changes to Github or Gitlab = git push
+
+
+ADDITIONAL COMMANDS
+
+- STATUS = Inside a project, use "git status" to view the status report of the project. 
+This will tell you which branch you're on and if there are any commits needed. 
+
+- DIFF = Use the command "git diff" to show the changes of a file before committing it. Plus and minus signs show what was removed, changed, and added. 
+
+- DIFF --STAGED = Use the command "git diff --staged" OR "git diff --cached" to show which changes are in the staging area ONLY.
+
+- DELETE = Use the command "git rm NAME OF FILE" Works the same way as adding and committing any other file. You have to add the deleted file to the staging area and then commit it for it to be deleted from the repository. 
+
+- RENAME = "git mv FILE NAME NEW FILE NAME" Rename files by "moving" them from one file name to another. Must commit changes for them to take effect.
+
+- COMMIT SHORTCUT = "git commit -am" is the same thing as "git commit --all" adding the "m" after the "a" will allow us to add a message like we would with a normal commit. This skips the staging step and commits the changes directly to the repository. Does not include untracked files. Will commit ALL changes made, even in other files that you may have changed earlier and forgot about. 
+
+- VIEW COMMIT AT LATER DATE = "git show (8 or more characters of commit string/SHA) ADD --color-words to show a specific change.
+
+**END**
+
+#wgu #westerngovernorsuniversity #webdevelopmentapplications #C777 #softwareengineer #html5 #css #javascript #js #D197 #VersionControl #Git
+
+WGU, Western Governor University, web development applications, C777, software engineering, software engineer, HTML5, CSS, JavaScript, JS, D197, Version Control, Git
